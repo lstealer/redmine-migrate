@@ -1,0 +1,7 @@
+production:
+  adapter: "mysql2"
+  host: "192.168.178.50"
+  username: "matomo_dev"
+  database: "matomodevdb"
+  password: "matomo123"
+  encoding: "utf8"
